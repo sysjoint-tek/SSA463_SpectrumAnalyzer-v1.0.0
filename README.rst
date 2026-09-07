@@ -3,9 +3,9 @@ As the PC host computer for the SSA463 spectrum analyzer (PyQtGraph-based GUI).
 
 Screenshots
 -----------
-.. image:: https://github.com/sysjoint-tek/-/blob/main/SSA463_EN.png?raw=true
+https://github.com/sysjoint-tek/SSA463_SpectrumAnalyzer-v1.0.0/blob/main/SSA463-EN.png
 
-.. image:: https://github.com/sysjoint-tek/-/blob/main/SSA463_ZN.png?raw=true
+https://github.com/sysjoint-tek/SSA463_SpectrumAnalyzer-v1.0.0/blob/main/SSA463-ZN.png
 
 Overview
 -----------
